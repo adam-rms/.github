@@ -1,4 +1,4 @@
- ![AdamRMS Logo](logo.svg)
+ ![AdamRMS Logo](profile/logo.svg)
 
 AdamRMS is a free, open source advanced Rental Management System for Theatre, AV & Broadcast. 
 
