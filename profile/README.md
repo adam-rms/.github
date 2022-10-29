@@ -10,7 +10,6 @@ AdamRMS is a free, open source advanced Rental Management System for Theatre, AV
 | ---: | :--- | :--- | :--- |
 | [adam-rms](https://github.com/adam-rms/adam-rms) | Dashboard and API (`v1`) | PHP | Production :white_check_mark:<br/>In-Development |
 | [adam-rms-v2](https://github.com/adam-rms/adam-rms-v2) | New Dashboard/App/API (`v2`) | Typescript | Closed Alpha :soon: |
-| [public-sites](https://github.com/adam-rms/public-sites) | Public Facing Websites for Asset Sharing/Display (`v2`) | Typescript | Alpha :soon: |
 | [website](https://github.com/adam-rms/website) | Project Website and Documentation Hub | Javascript (Docusaurus) | Production :white_check_mark:<br/>In-Development  |
 | [adam-rms-s3Deletor](https://github.com/adam-rms/adam-rms-s3Deletor) | Bot that deletes images uploaded to the RMS once deletion is requested | Python | Production but maintenance only :end: |
 | [adam-rms-imageCompressor](https://github.com/adam-rms/adam-rms-imageCompressor) | Bot that compresses images uploaded to the RMS | Python | Production but maintenance only :end: |
