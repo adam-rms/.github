@@ -8,8 +8,8 @@ body:
     attributes:
       label: Page URL
       description: What page on our website have you found an issue?
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: What's the Issue?
